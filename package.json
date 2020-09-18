@@ -10,8 +10,8 @@
   "type": "module",
   "jest": {
     "verbose": true,
-    "testEnvironment" : "jest-environment-node",
-    "transform" : {}
+    "testEnvironment": "jest-environment-node",
+    "transform": {}
   },
   "keywords": [],
   "author": "",
