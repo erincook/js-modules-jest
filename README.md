@@ -7,10 +7,10 @@ as a starting point for the lab.
 ## To get started: 
 Fork this repo  
 Clone it down  
-`npm install` - in order to pull down all dependent node modules. 
-`npm run start-server` to run the server. 
-You should now be able to see the local web page at `http://127.0.0.1:8080/`
-Cntrl + C to stop the server. 
+`npm install` - in order to pull down all dependent node modules.   
+`npm run start-server` to run the server.   
+You should now be able to see the local web page at `http://127.0.0.1:8080/`  
+Cntrl + C to stop the server.   
 
 
 To Test: 
@@ -18,7 +18,7 @@ To Test:
 
 ## Testing and Modules Lab: 
 
-1.) Add the subtract function to the calculator module. 
+1.) Add the subtract function to the calculator module.   
 2.) Write tests for the subtract functions. 
 
 
