@@ -1,5 +1,3 @@
-//import add from './calculator.js'; 
-
 import { add, subtract } from './calculator.js'
 
 
